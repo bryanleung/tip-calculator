@@ -8,7 +8,7 @@ Time spent: 2 hours spent in total
 * [x] Required: User can input bill amount
 * [x] Required: User can select tip percentage
 * [x] Required: User can view total $
-
+* [x] Optional: Re-layouted the UI
 
 Walkthrough of all user stories:
 
