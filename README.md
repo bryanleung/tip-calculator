@@ -12,6 +12,6 @@ Time spent: 2 hours spent in total
 
 Walkthrough of all user stories:
 
-![Video Walkthrough](anim_rotten_tomatoes.gif)
+![Video Walkthrough](tipcalculator.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
